@@ -9,4 +9,3 @@ I'm a Master's student in Artificial Intelligence at Northeastern University. I'
 ## Find me on the internet 🌎:
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/trieuhaivo/)
 * Practice data analysis and machine learning on [Kaggle](https://www.kaggle.com/vhtrieu/code)
----
