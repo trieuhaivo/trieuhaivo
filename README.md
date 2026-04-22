@@ -2,17 +2,16 @@
 
 # Trieu Hai Vo
 
-### PhD Student in Computer Science · Environmental AI
+## PhD Student in Computer Science · Environmental AI
 
 [![Florida International University](https://img.shields.io/badge/Florida_International_University-PhD_in_CS-002147?style=for-the-badge)](https://www.cis.fiu.edu/)
 [![NSF AI2ES](https://img.shields.io/badge/NSF_AI2ES-supported-1F70C1?style=for-the-badge)](https://www.ai2es.org/)
-[![Miami, FL](https://img.shields.io/badge/Miami-FL-0E4D92?style=for-the-badge)](https://maps.app.goo.gl/)
 
 [![Website](https://img.shields.io/badge/Website-trieuhaivo.github.io-002147?style=flat-square&logo=jekyll&logoColor=white)](https://trieuhaivo.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=d_CPjj8AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4281--8906-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4281-8906)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vhtrieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vhtrieu)
-[![Email](https://img.shields.io/badge/tvo013@fiu.edu-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tvo013@fiu.edu)
+[![Email](https://img.shields.io/badge/Email-tvo013@fiu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tvo013@fiu.edu)
 
 </div>
 
@@ -32,6 +31,8 @@ I develop **deep-learning methods for environmental time series** — specifical
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://kdd2026.kdd.org/"><img src="https://raw.githubusercontent.com/trieuhaivo/trieuhaivo.github.io/main/assets/img/publication_preview/dmi_preview.png" width="100%" alt="DMI preview"></a>
+
 #### Depth-wise Multivariate Imputation (DMI)
 
 > Axis-factored attention for missing measurements across multi-depth environmental sensor networks.
@@ -43,6 +44,8 @@ I develop **deep-learning methods for environmental time series** — specifical
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://www.climatechange.ai/papers/iclr2025/48"><img src="https://raw.githubusercontent.com/trieuhaivo/trieuhaivo.github.io/main/assets/img/publication_preview/lake_preview.png" width="100%" alt="Lake-Temperature PINN preview"></a>
 
 #### Lake Water Temperature with PINNs
 
@@ -59,7 +62,7 @@ I develop **deep-learning methods for environmental time series** — specifical
 
 ---
 
-### 🎓 Doctoral advisors
+### 🤝 Doctoral advisors
 
 | Advisor | Title | Institution |
 |---|---|---|
