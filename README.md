@@ -2,7 +2,7 @@
 
 # Trieu Hai Vo
 
-## PhD Student in Computer Science · Environmental AI
+## PhD Student in Computer Science - Environmental AI
 
 [![Florida International University](https://img.shields.io/badge/Florida_International_University-PhD_in_CS-002147?style=for-the-badge)](https://www.cis.fiu.edu/)
 [![NSF AI2ES](https://img.shields.io/badge/NSF_AI2ES-supported-1F70C1?style=for-the-badge)](https://www.ai2es.org/)
@@ -17,52 +17,23 @@
 
 ---
 
-### 🌊 Research
+### Research focus
 
-I develop **deep-learning methods for environmental time series** — specifically, **structured attention architectures** that respect the physical structure of stratified aquatic systems along three meaningful axes: **depth, feature, and time**. My doctoral work targets the climate- and water-monitoring data that U.S. agencies, water utilities, and federal Earth-system research increasingly depend on.
+I build machine-learning methods for scientific time series, with a focus on environmental sensor data. My work studies imputation, forecasting, structured attention, and physics-informed learning for aquatic monitoring systems where measurements vary across depth, feature, and time.
 
-`time-series imputation` &nbsp;·&nbsp; `time-series forecasting` &nbsp;·&nbsp; `structured attention` &nbsp;·&nbsp; `physics-informed machine learning` &nbsp;·&nbsp; `diffusion models` &nbsp;·&nbsp; `foundation models` &nbsp;·&nbsp; `environmental AI`
-
----
-
-### 📚 Selected publications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://kdd2026.kdd.org/"><img src="https://raw.githubusercontent.com/trieuhaivo/trieuhaivo.github.io/main/assets/img/publication_preview/dmi_preview.png" width="100%" alt="DMI preview"></a>
-
-#### Depth-wise Multivariate Imputation (DMI)
-
-> Axis-factored attention for missing measurements across multi-depth environmental sensor networks.
-
-**Vo, T. H.**, Nguyen, C. V., Cavalcanti, A. S., Bobadilla, L.
-
-[![Status](https://img.shields.io/badge/Status-Under_Peer_Review-FFA500?style=flat-square)](https://kdd2026.kdd.org/)
-[![Venue](https://img.shields.io/badge/Venue-ACM_SIGKDD_2026-002147?style=flat-square)](https://kdd2026.kdd.org/)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://www.climatechange.ai/papers/iclr2025/48"><img src="https://raw.githubusercontent.com/trieuhaivo/trieuhaivo.github.io/main/assets/img/publication_preview/lake_preview.png" width="100%" alt="Lake-Temperature PINN preview"></a>
-
-#### Lake Water Temperature with PINNs
-
-> Koopman + LSTM hybrid for long-horizon multi-depth lake temperature forecasting on 450 Midwestern U.S. lakes × 40 yr.
-
-**Vo, T. H.**, Nguyen, C. V., Luo, D., Bobadilla, L.
-
-[![Status](https://img.shields.io/badge/Status-Peer--Reviewed-2EA043?style=flat-square)](https://www.climatechange.ai/papers/iclr2025/48)
-[![Venue](https://img.shields.io/badge/Venue-ICLR_2025_Workshop-002147?style=flat-square)](https://www.climatechange.ai/papers/iclr2025/48)
-
-</td>
-</tr>
-</table>
+`time-series imputation` &nbsp;|&nbsp; `time-series forecasting` &nbsp;|&nbsp; `structured attention` &nbsp;|&nbsp; `physics-informed machine learning` &nbsp;|&nbsp; `environmental AI` &nbsp;|&nbsp; `scientific machine learning`
 
 ---
 
-### 🤝 Doctoral advisors
+### Current work
+
+- Developing robust imputation methods for stratified environmental sensor networks with missing and irregular observations.
+- Studying how depth, feature, and time structure can improve scientific time-series models.
+- Building reproducible research workflows for papers, experiments, code releases, and reviewer-facing artifacts.
+
+---
+
+### Doctoral advisors
 
 | Advisor | Title | Institution |
 |---|---|---|
@@ -71,40 +42,38 @@ I develop **deep-learning methods for environmental time series** — specifical
 
 ---
 
-### 💰 Funding
+### Funding
 
-This research is **supported in part by the [NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES)](https://www.ai2es.org/)** via the FIU–AI2ES ExpandAI partnership — a U.S. National Science Foundation program advancing trustworthy AI for Earth-system, weather, and climate-resilience applications.
+My PhD research is supported in part by the [NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES)](https://www.ai2es.org/) through the FIU-AI2ES ExpandAI partnership.
 
 ---
 
-### 🎓 Education
+### Education
 
 | Degree | Institution | Period |
 |---|---|---|
-| **Ph.D. in Computer Science** | Florida International University · Knight Foundation School of CIS | May 2024 – present |
-| **M.S. in Artificial Intelligence** | Northeastern University | Sept 2021 – Jul 2023 |
-| **B.S. in Computer Science** *(Advanced Program, instruction in English)* | Vietnam National University — University of Science | Sept 2014 – Nov 2018 |
+| **Ph.D. in Computer Science** | Florida International University, Knight Foundation School of CIS | May 2024 - present |
+| **M.S. in Artificial Intelligence** | Northeastern University | Sept 2021 - Jul 2023 |
+| **B.S. in Computer Science** *(Advanced Program, instruction in English)* | Vietnam National University, University of Science | Sept 2014 - Nov 2018 |
 
 ---
 
-### 📰 Recent updates
+### Recent updates
 
-> 🎓 **April 2026** — Passed the **PhD Qualifying Examination** at Florida International University
+> **April 2026** - Passed the **PhD Qualifying Examination** at Florida International University
 >
-> 📝 **April 2026** — DMI manuscript submitted to **ACM SIGKDD 2026**
+> **April 2025** - Presented in person at the **ICLR 2025 Workshop** on Tackling Climate Change with ML, Singapore
 >
-> 🇸🇬 **April 2025** — Presented in person at the **ICLR 2025 Workshop** on Tackling Climate Change with ML, Singapore
+> **March 2025** - Paper accepted to the **ICLR 2025 Workshop** on Tackling Climate Change with ML
 >
-> ✅ **March 2025** — PINN paper accepted to the **ICLR 2025 Workshop**
+> **June 2024** - Co-presented *"Learning and Planning for Water Quality Monitoring"* with Prof. Bobadilla at the **FIU AI2ES collaboration meeting**
 >
-> 🎤 **June 2024** — Co-presented *"Learning and Planning for Water Quality Monitoring"* with Prof. Bobadilla at the **FIU AI2ES collaboration meeting**
->
-> 🚀 **May 2024** — Started **PhD in Computer Science** at FIU under Prof. Bobadilla & Prof. Nguyen
+> **May 2024** - Started the **PhD in Computer Science** at FIU under Prof. Bobadilla and Prof. Nguyen
 
 ---
 
 <div align="center">
 
-<sub>📍 Miami, Florida · Open to academic collaborations on environmental AI, structured attention for scientific time series, and physics-informed methods. · Last reviewed April 2026.</sub>
+<sub>Miami, Florida | Open to academic collaborations on environmental AI, scientific time series, and physics-informed machine learning | Last reviewed May 2026</sub>
 
 </div>
